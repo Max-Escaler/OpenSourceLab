@@ -1,5 +1,4 @@
-me: Max Escaler -
-email: escalj@rpi.edu
-github account: Max-Escaler
-slack handle: mskmoorthy
+## Name: Max Escaler -
+### email: escalj@rpi.edu
+### github account: Max-Escaler
 Photo of Max ![Max](Max.jpg) 

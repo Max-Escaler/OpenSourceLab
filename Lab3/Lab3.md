@@ -1,3 +1,16 @@
+### Part 0
+
+1. The problem area that your software is researching
+- 
+2. Existing Software that addreses similar problems and how yours will be different or better
+- 
+3. The technology you are using and the end product (One or two paragraphs). Note that this is preliminary, but you need to be thinking about your project and this should be a good first iteration of it.
+
+
+
+
+
+
 ### MicroFossil Sorter
 ## Contributors: 
 klingj3, OliviaLundelius, Alexistj

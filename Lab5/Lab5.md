@@ -12,6 +12,5 @@ CMake Tutorial:
 ![Step4](./Step4-1.jpg)
 ![Step4](./Step4-2.jpg)
 ![Step4](./Step4-3.jpg)
-
-
-5.
+5. Learning how to add Introspection to make sur ehte system has the required libraries and compilers necessary to make code
+![Step5](./Step5.jpg)

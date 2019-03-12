@@ -70,4 +70,8 @@ hove
 have
 hate
 
-4. 
+
+
+
+
+

@@ -49,16 +49,7 @@ smart
 
 
 2. 
-def words_graph():
-    fh = gzip.open('words4_dat.txt.gz', 'r')
-    words = set()
-    for line in fh.readlines():
-        line = line.decode()
-        if line.startswith('*'):
-            continue
-        w = str(line[0:4])
-        words.add(w)
-    return generate_graph(words)
+!(4Letters)[./wordLadder4Letters.py]
 
 3. 
 Shortest path between cold and warm is

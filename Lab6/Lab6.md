@@ -1,6 +1,7 @@
-#Lab6
+# Lab6
 
-1. Shortest path between chaos and order is
+1. 
+Shortest path between chaos and order is
 chaos
 chats
 coats
@@ -47,8 +48,8 @@ start
 smart
 
 
-2. def words_graph():
-    """Return the words example graph from the Stanford GraphBase"""
+2. 
+def words_graph():
     fh = gzip.open('words4_dat.txt.gz', 'r')
     words = set()
     for line in fh.readlines():
@@ -58,7 +59,9 @@ smart
         w = str(line[0:4])
         words.add(w)
     return generate_graph(words)
-3. Shortest path between cold and warm is
+
+3. 
+Shortest path between cold and warm is
 cold
 cord
 word

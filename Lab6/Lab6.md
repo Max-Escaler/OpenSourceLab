@@ -49,7 +49,7 @@ smart
 
 
 2. 
-![4Letters]("https://github.com/Max-Escaler/OpenSourceLab/blob/master/Lab6/wordLadder4Letters.py")
+![4Letters](https://github.com/Max-Escaler/OpenSourceLab/blob/master/Lab6/wordLadder4Letters.py)
 
 3. 
 Shortest path between cold and warm is

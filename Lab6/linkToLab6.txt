@@ -1,0 +1,2 @@
+linktoLab6:
+https://github.com/Max-Escaler/OpenSourceLab/blob/master/Lab6/Lab6.md
